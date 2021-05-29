@@ -17,4 +17,4 @@ This project integrates various news source for performing sentiment analysis pe
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
 * **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+* **Output:** Trading signals  triggers buying and selling
