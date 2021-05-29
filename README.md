@@ -1,9 +1,9 @@
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Sai Sravya Thumati
+*Machine Learning and Artificial Intelligence Intern at BITSILICA*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Bachelor of Technology (Computer Science Engineering)  *Gokaraju Rangaraju Institute of Engineering and Technology*, 2018-2022
+* Intermediate (MPC) *Sri Chaitanya Junior College*, 2016-2018
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
